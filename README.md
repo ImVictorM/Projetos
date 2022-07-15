@@ -7,3 +7,4 @@ Projetos realizados na trybe
 - [x] Projeto 3 - [Pixel-art](https://imvictorm.github.io/pixel-art/)
 - [x] Projeto (Bônus) - [Carta-misteriosa](https://imvictorm.github.io/carta-misteriosa/)
 - [x] Projeto (Bônus) - [Meme-generator](https://imvictorm.github.io/meme-generator/)
+- [x] Projeto (Bônus) - [To-do-list](https://imvictorm.github.io/to-do-list/)
