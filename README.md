@@ -5,7 +5,7 @@ Projetos realizados na trybe
 - [x] Projeto 1 - [Lessons-learned](https://imvictorm.github.io/lessons-learned/)
 - src: https://github.com/ImVictorM/lessons-learned
 
-- [x] Projeto 2 - [Playground-functions]
+- [x] Projeto 2 - Playground-functions
 - src: https://github.com/ImVictorM/playground-functions/tree/main/src
 
 - [x] Projeto 3 - [Pixel-art](https://imvictorm.github.io/pixel-art/)
