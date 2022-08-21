@@ -22,3 +22,6 @@ Projetos realizados na trybe
 
 - [x] Projeto (Bônus) - [Color-guess](https://imvictorm.github.io/color-guess/)
 - src: https://github.com/ImVictorM/color-guess
+
+- [x] Projeto 5 - [Trybewarts](https://imvictorm.github.io/Trybewarts/)
+- src: https://github.com/ImVictorM/Trybewarts
