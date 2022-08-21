@@ -25,3 +25,12 @@ Projetos realizados na trybe
 
 - [x] Projeto 5 - [Trybewarts](https://imvictorm.github.io/Trybewarts/)
 - src: https://github.com/ImVictorM/Trybewarts
+
+- [x] Projeto 6 - JS unit tests
+- src: https://github.com/ImVictorM/JS-unit-tests
+
+- [x] Projeto 7 - Zoo functions
+- src: https://github.com/ImVictorM/Zoo-Function
+
+- [x] Projeto 8 - [Shopping cart](https://imvictorm.github.io/Shopping-cart/)
+- src: https://github.com/ImVictorM/Shopping-cart
