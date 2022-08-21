@@ -34,3 +34,6 @@ Projetos realizados na trybe
 
 - [x] Projeto 8 - [Shopping cart](https://imvictorm.github.io/Shopping-cart/)
 - src: https://github.com/ImVictorM/Shopping-cart
+
+- [x] Projeto 9 - [Solar System](https://imvictorm.github.io/Solar-System/)
+- src: https://github.com/ImVictorM/Solar-System
