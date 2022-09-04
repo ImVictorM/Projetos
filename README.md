@@ -37,3 +37,6 @@ Projetos realizados na trybe
 
 - [x] Projeto 9 - [Solar System](https://imvictorm.github.io/Solar-System/)
 - src: https://github.com/ImVictorM/Solar-System
+
+- [x] Projeto 10 - [Tryunfo](https://imvictorm.github.io/Tryunfo/)
+- src: https://github.com/ImVictorM/Tryunfo
