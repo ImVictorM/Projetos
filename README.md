@@ -40,3 +40,6 @@ Projetos realizados na trybe
 
 - [x] Projeto 10 - [Tryunfo](https://imvictorm.github.io/Tryunfo/)
 - src: https://github.com/ImVictorM/Tryunfo
+
+- [x] Projeto 11 - [Trybetunes](https://imvictorm.github.io/glow-station/#/)
+- src: https://github.com/ImVictorM/glow-station
