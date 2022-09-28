@@ -1,7 +1,7 @@
 # Projetos
 
 Projetos realizados na Trybe.</br>
-Os links com nome do projeto levam à página com deploy no gh-pages 
+Os links com nome do projeto levam à página com deploy no gh-pages.
 
 ##  Fundamentos do Desenvolvimento Web
 Projeto 1 - [Lessons-learned](https://imvictorm.github.io/lessons-learned/)<br/>
