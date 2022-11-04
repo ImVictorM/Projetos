@@ -8,7 +8,7 @@ Projeto 1 - [Lessons-learned](https://imvictorm.github.io/lessons-learned/)<br/>
 src: https://github.com/ImVictorM/lessons-learned
 
 Projeto 2 - Playground-functions<br/>
-src: https://github.com/ImVictorM/playground-functions/tree/main/src
+src: https://github.com/ImVictorM/playground-functions
 
 Projeto 3 - [Pixel-art](https://imvictorm.github.io/pixel-art/)<br/>
 src: https://github.com/ImVictorM/pixel-art
