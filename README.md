@@ -54,3 +54,20 @@ src: https://github.com/ImVictorM/Testes-em-React
 
 Projeto 14 - [Trybewallet](https://imvictorm.github.io/Trybewallet/#/)<br/>
 src: https://github.com/ImVictorM/Trybewallet
+
+Projeto 15 - Trivia<br/>
+src: https://github.com/ImVictorM/Trivia-Game
+
+Projeto 16 - Star Wars Datatable <br/>
+src: https://github.com/ImVictorM/Star-Wars-Planets
+
+Projeto 17 - App de Receitas <br/>
+src: https://github.com/ImVictorM/Recipes-App
+
+## Desenvolvimento Back-end
+
+Projeto 17 - Docker To-Do list <br/>
+src: https://github.com/ImVictorM/Docker-To-Do-List
+
+Projeto 18 - All for one <br/>
+src: https://github.com/ImVictorM/All-For-One
