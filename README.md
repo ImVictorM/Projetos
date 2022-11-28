@@ -1,10 +1,10 @@
 # Projetos
 
 Projetos realizados na Trybe.</br>
-Os links com nome do projeto levam à página com deploy no gh-pages.
+Os links com nome do projeto levam à página.
 
 ##  Fundamentos do Desenvolvimento Web
-Projeto 1 - [Lessons-learned](https://imvictorm.github.io/lessons-learned/)<br/>
+Projeto 1 - [Lessons-learned](https://imvictorm.github.io/Lessons-Learned/)<br/>
 src: https://github.com/ImVictorM/lessons-learned
 
 Projeto 2 - Playground-functions<br/>
