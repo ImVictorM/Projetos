@@ -13,17 +13,17 @@ src: https://github.com/ImVictorM/playground-functions
 Projeto 3 - [Pixel-art](https://imvictorm.github.io/pixel-art/)<br/>
 src: https://github.com/ImVictorM/pixel-art
 
-Projeto (Bônus) - [Carta-misteriosa](https://imvictorm.github.io/carta-misteriosa/)<br/>
-src: https://github.com/ImVictorM/carta-misteriosa
+Projeto (Bônus) - [Carta-misteriosa](https://imvictorm.github.io/Mysterious-Letter/)<br/>
+src: https://github.com/ImVictorM/Mysterious-Letter
 
-Projeto (Bônus) - [Meme-generator](https://imvictorm.github.io/meme-generator/)<br/>
-src: https://github.com/ImVictorM/meme-generator
+Projeto (Bônus) - [Meme-generator](https://imvictorm.github.io/Meme-Generator/)<br/>
+src: https://github.com/ImVictorM/Meme-Generator
 
-Projeto (Bônus) - [To-do-list](https://imvictorm.github.io/to-do-list/)<br/>
-src: https://github.com/ImVictorM/to-do-list
+Projeto (Bônus) - [To-do-list](https://imvictorm.github.io/To-Do-List/)<br/>
+src: https://github.com/ImVictorM/To-Do-List
 
-Projeto (Bônus) - [Color-guess](https://imvictorm.github.io/color-guess/)<br/>
-src: https://github.com/ImVictorM/color-guess
+Projeto (Bônus) - [Color-guess](https://imvictorm.github.io/Color-Guess/)<br/>
+src: https://github.com/ImVictorM/Color-Guess
 
 Projeto 5 - [Trybewarts](https://imvictorm.github.io/Trybewarts/)<br/>
 src: https://github.com/ImVictorM/Trybewarts
