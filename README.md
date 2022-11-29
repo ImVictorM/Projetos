@@ -32,11 +32,13 @@ Projeto 6 - JS unit tests<br/>
 src: https://github.com/ImVictorM/JS-unit-tests
 
 Projeto 7 - Zoo functions<br/>
-src: https://github.com/ImVictorM/Zoo-Function
+src: https://github.com/ImVictorM/Zoo-Functions
 
-Projeto 8 - [Shopping cart](https://imvictorm.github.io/Shopping-cart/)<br/>
-src: https://github.com/ImVictorM/Shopping-cart
 ## Desenvolvimento Front-end
+
+Projeto 8 - [Shopping cart](https://imvictorm.github.io/Shopping-Cart/)<br/>
+src: https://github.com/ImVictorM/Shopping-Cart
+
 Projeto 9 - [Solar System](https://imvictorm.github.io/Solar-System/)<br/>
 src: https://github.com/ImVictorM/Solar-System
 
