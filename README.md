@@ -45,8 +45,8 @@ src: https://github.com/ImVictorM/Solar-System
 Projeto 10 - [Tryunfo](https://imvictorm.github.io/Tryunfo/)<br/>
 src: https://github.com/ImVictorM/Tryunfo
 
-Projeto 11 - [Trybetunes](https://imvictorm.github.io/glow-station/#/)<br/>
-src: https://github.com/ImVictorM/glow-station
+Projeto 11 - [Trybetunes](https://imvictorm.github.io/Glow-Station/#/)<br/>
+src: https://github.com/ImVictorM/Glow-Station
 
 Projeto 12 - Front-end Online Store <br/>
 src: https://github.com/ImVictorM/Front-end-Online-Store
