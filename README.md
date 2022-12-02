@@ -48,8 +48,8 @@ src: https://github.com/ImVictorM/Tryunfo
 Projeto 11 - [Trybetunes](https://imvictorm.github.io/Glow-Station/#/)<br/>
 src: https://github.com/ImVictorM/Glow-Station
 
-Projeto 12 - Front-end Online Store <br/>
-src: https://github.com/ImVictorM/Front-end-Online-Store
+Projeto 12 - FrontEnd Online Store <br/>
+src: https://github.com/ImVictorM/FrontEnd-Online-Store
 
 Projeto 13 - Testes em React <br/>
 src: https://github.com/ImVictorM/Testes-em-React
