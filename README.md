@@ -52,7 +52,7 @@ Projeto 12 - FrontEnd Online Store <br/>
 src: https://github.com/ImVictorM/FrontEnd-Online-Store
 
 Projeto 13 - Testes em React <br/>
-src: https://github.com/ImVictorM/Testes-em-React
+src: https://github.com/ImVictorM/Testing-Using-ReactJS
 
 Projeto 14 - [Trybewallet](https://imvictorm.github.io/Trybewallet/#/)<br/>
 src: https://github.com/ImVictorM/Trybewallet
