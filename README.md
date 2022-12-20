@@ -73,3 +73,6 @@ src: https://github.com/ImVictorM/Docker-To-Do-List
 
 Projeto 18 - All for one <br/>
 src: https://github.com/ImVictorM/All-For-One
+
+Projeto 19 - Talker Manager <br/>
+src: https://github.com/ImVictorM/Talker-Manager
