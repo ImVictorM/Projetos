@@ -76,3 +76,9 @@ src: https://github.com/ImVictorM/All-For-One
 
 Projeto 19 - Talker Manager <br/>
 src: https://github.com/ImVictorM/Talker-Manager
+
+Projeto 20 - Store Manager <br/>
+src: https://github.com/ImVictorM/Store-Manager
+
+Projeto 21 - Blogs API <br/>
+src: https://github.com/ImVictorM/Blog-API
